@@ -1,7 +1,7 @@
 # utils/helpers.py
 
 import math
-from rapidfuzz import process, fuzz
+# from rapidfuzz import process, fuzz
 import os
 import json
 import logging
